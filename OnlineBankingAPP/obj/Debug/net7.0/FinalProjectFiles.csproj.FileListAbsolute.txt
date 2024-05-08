@@ -1,0 +1,14 @@
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\obj\Debug\net7.0\FinalProjectFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\obj\Debug\net7.0\FinalProjectFiles.AssemblyInfoInputs.cache
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\obj\Debug\net7.0\FinalProjectFiles.AssemblyInfo.cs
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\obj\Debug\net7.0\FinalProjectFiles.csproj.CoreCompileInputs.cache
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\bin\Debug\net7.0\FinalProjectFiles.exe
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\bin\Debug\net7.0\FinalProjectFiles.deps.json
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\bin\Debug\net7.0\FinalProjectFiles.runtimeconfig.json
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\bin\Debug\net7.0\FinalProjectFiles.dll
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\bin\Debug\net7.0\FinalProjectFiles.pdb
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\obj\Debug\net7.0\FinalProjectFiles.dll
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\obj\Debug\net7.0\refint\FinalProjectFiles.dll
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\obj\Debug\net7.0\FinalProjectFiles.pdb
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\obj\Debug\net7.0\FinalProjectFiles.genruntimeconfig.cache
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\FinalProjectFiles\obj\Debug\net7.0\ref\FinalProjectFiles.dll
